@@ -9,7 +9,7 @@ Can firms be strategic when selecting new export markets to maximize their poten
 
 ## 2. Dataset
 
-The data
+The dataset selected for this project contains all record of new export transactions registered in Colombia between 2017 and 2021. This dataset was obtained by aggregrating all export transactions filed to the Colombia Tax Authority - DIAN between 2016 and 2022. The aggregate records were then explored to identify new exporters in a new market, which for the purpose of this project are defined as exports to a market by an exporter that in the previous year was not active in such country. Finally, additional features about the new market as well as prior export experience from the previous year (if available) were added to the records of new exporters in a new market. All steps to obtain the dataset from original export records (available for download at https://microdatos.dane.gov.co/index.php/catalog/472/get-microdata) are included in the GenerateDataset.ipynb notebook. 
 
 ## 3. Exploratory Data Analysis
 ## 4. Model
