@@ -1,0 +1,251 @@
+,market,name,region,subregion,languages_dict,languages
+0,AFG,Afghanistan,Asia,Southern Asia,"[{'iso639_1': 'ps', 'iso639_2': 'pus', 'name': 'Pashto', 'nativeName': 'پښتو'}, {'iso639_1': 'uz', 'iso639_2': 'uzb', 'name': 'Uzbek', 'nativeName': 'Oʻzbek'}, {'iso639_1': 'tk', 'iso639_2': 'tuk', 'name': 'Turkmen', 'nativeName': 'Türkmen'}]",Pashto;Uzbek;Turkmen
+1,ALA,Åland Islands,Europe,Northern Europe,"[{'iso639_1': 'sv', 'iso639_2': 'swe', 'name': 'Swedish', 'nativeName': 'svenska'}]",Swedish
+2,ALB,Albania,Europe,Southern Europe,"[{'iso639_1': 'sq', 'iso639_2': 'sqi', 'name': 'Albanian', 'nativeName': 'Shqip'}]",Albanian
+3,DZA,Algeria,Africa,Northern Africa,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+4,ASM,American Samoa,Oceania,Polynesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'sm', 'iso639_2': 'smo', 'name': 'Samoan', 'nativeName': ""gagana fa'a Samoa""}]",English;Samoan
+5,AND,Andorra,Europe,Southern Europe,"[{'iso639_1': 'ca', 'iso639_2': 'cat', 'name': 'Catalan', 'nativeName': 'català'}]",Catalan
+6,AGO,Angola,Africa,Middle Africa,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Portuguese
+7,AIA,Anguilla,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+8,ATA,Antarctica,Polar,Antarctica,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",English;Russian
+9,ATG,Antigua and Barbuda,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+10,ARG,Argentina,Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'gn', 'iso639_2': 'grn', 'name': 'Guaraní', 'nativeName': ""Avañe'ẽ""}]",Spanish;Guaraní
+11,ARM,Armenia,Asia,Western Asia,"[{'iso639_1': 'hy', 'iso639_2': 'hye', 'name': 'Armenian', 'nativeName': 'Հայերեն'}]",Armenian
+12,ABW,Aruba,Americas,Caribbean,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}, {'iso639_1': 'pa', 'iso639_2': 'pan', 'name': '(Eastern) Punjabi', 'nativeName': 'ਪੰਜਾਬੀ'}]",Dutch;(Eastern) Punjabi
+13,AUS,Australia,Oceania,Australia and New Zealand,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+14,AUT,Austria,Europe,Central Europe,"[{'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",German
+15,AZE,Azerbaijan,Asia,Western Asia,"[{'iso639_1': 'az', 'iso639_2': 'aze', 'name': 'Azerbaijani', 'nativeName': 'azərbaycan dili'}]",Azerbaijani
+16,BHS,Bahamas,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+17,BHR,Bahrain,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+18,BGD,Bangladesh,Asia,Southern Asia,"[{'iso639_1': 'bn', 'iso639_2': 'ben', 'name': 'Bengali', 'nativeName': 'বাংলা'}]",Bengali
+19,BRB,Barbados,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+20,BLR,Belarus,Europe,Eastern Europe,"[{'iso639_1': 'be', 'iso639_2': 'bel', 'name': 'Belarusian', 'nativeName': 'беларуская мова'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",Belarusian;Russian
+21,BEL,Belgium,Europe,Western Europe,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",Dutch;French;German
+22,BLZ,Belize,Americas,Central America,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",English;Spanish
+23,BEN,Benin,Africa,Western Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+24,BMU,Bermuda,Americas,Northern America,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+25,BTN,Bhutan,Asia,Southern Asia,"[{'iso639_1': 'dz', 'iso639_2': 'dzo', 'name': 'Dzongkha', 'nativeName': 'རྫོང་ཁ'}]",Dzongkha
+26,BOL,Bolivia (Plurinational State of),Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'ay', 'iso639_2': 'aym', 'name': 'Aymara', 'nativeName': 'aymar aru'}, {'iso639_1': 'qu', 'iso639_2': 'que', 'name': 'Quechua', 'nativeName': 'Runa Simi'}]",Spanish;Aymara;Quechua
+27,BES,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}]",Dutch
+28,BIH,Bosnia and Herzegovina,Europe,Southern Europe,"[{'iso639_1': 'bs', 'iso639_2': 'bos', 'name': 'Bosnian', 'nativeName': 'bosanski jezik'}, {'iso639_1': 'hr', 'iso639_2': 'hrv', 'name': 'Croatian', 'nativeName': 'hrvatski jezik'}, {'iso639_1': 'sr', 'iso639_2': 'srp', 'name': 'Serbian', 'nativeName': 'српски језик'}]",Bosnian;Croatian;Serbian
+29,BWA,Botswana,Africa,Southern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'tn', 'iso639_2': 'tsn', 'name': 'Tswana', 'nativeName': 'Setswana'}]",English;Tswana
+30,BVT,Bouvet Island,Antarctic Ocean,South Antarctic Ocean,"[{'iso639_1': 'no', 'iso639_2': 'nor', 'name': 'Norwegian', 'nativeName': 'Norsk'}, {'iso639_1': 'nb', 'iso639_2': 'nob', 'name': 'Norwegian Bokmål', 'nativeName': 'Norsk bokmål'}, {'iso639_1': 'nn', 'iso639_2': 'nno', 'name': 'Norwegian Nynorsk', 'nativeName': 'Norsk nynorsk'}]",Norwegian;Norwegian Bokmål;Norwegian Nynorsk
+31,BRA,Brazil,Americas,South America,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Portuguese
+32,IOT,British Indian Ocean Territory,Africa,Eastern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+33,UMI,United States Minor Outlying Islands,Americas,Northern America,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+34,VGB,Virgin Islands (British),Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+35,VIR,Virgin Islands (U.S.),Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+36,BRN,Brunei Darussalam,Asia,South-Eastern Asia,"[{'iso639_1': 'ms', 'iso639_2': 'msa', 'name': 'Malay', 'nativeName': 'bahasa Melayu'}]",Malay
+37,BGR,Bulgaria,Europe,Eastern Europe,"[{'iso639_1': 'bg', 'iso639_2': 'bul', 'name': 'Bulgarian', 'nativeName': 'български език'}]",Bulgarian
+38,BFA,Burkina Faso,Africa,Western Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ff', 'iso639_2': 'ful', 'name': 'Fula', 'nativeName': 'Fulfulde'}]",French;Fula
+39,BDI,Burundi,Africa,Eastern Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'rn', 'iso639_2': 'run', 'name': 'Kirundi', 'nativeName': 'Ikirundi'}]",French;Kirundi
+40,KHM,Cambodia,Asia,South-Eastern Asia,"[{'iso639_1': 'km', 'iso639_2': 'khm', 'name': 'Khmer', 'nativeName': 'ខ្មែរ'}]",Khmer
+41,CMR,Cameroon,Africa,Middle Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",English;French
+42,CAN,Canada,Americas,Northern America,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",English;French
+43,CPV,Cabo Verde,Africa,Western Africa,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Portuguese
+44,CYM,Cayman Islands,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+45,CAF,Central African Republic,Africa,Middle Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'sg', 'iso639_2': 'sag', 'name': 'Sango', 'nativeName': 'yângâ tî sängö'}]",French;Sango
+46,TCD,Chad,Africa,Middle Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",French;Arabic
+47,CHL,Chile,Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+48,CHN,China,Asia,Eastern Asia,"[{'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}]",Chinese
+49,CXR,Christmas Island,Oceania,Australia and New Zealand,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+50,CCK,Cocos (Keeling) Islands,Oceania,Australia and New Zealand,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+51,COL,Colombia,Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+52,COM,Comoros,Africa,Eastern Africa,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",Arabic;French
+53,COG,Congo,Africa,Middle Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ln', 'iso639_2': 'lin', 'name': 'Lingala', 'nativeName': 'Lingála'}]",French;Lingala
+54,COD,Congo (Democratic Republic of the),Africa,Middle Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ln', 'iso639_2': 'lin', 'name': 'Lingala', 'nativeName': 'Lingála'}, {'iso639_1': 'kg', 'iso639_2': 'kon', 'name': 'Kongo', 'nativeName': 'Kikongo'}, {'iso639_1': 'sw', 'iso639_2': 'swa', 'name': 'Swahili', 'nativeName': 'Kiswahili'}, {'iso639_1': 'lu', 'iso639_2': 'lub', 'name': 'Luba-Katanga', 'nativeName': 'Tshiluba'}]",French;Lingala;Kongo;Swahili;Luba-Katanga
+55,COK,Cook Islands,Oceania,Polynesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_2': 'rar', 'name': 'Cook Islands Māori', 'nativeName': 'Māori'}]",English;Cook Islands Māori
+56,CRI,Costa Rica,Americas,Central America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+57,HRV,Croatia,Europe,Southern Europe,"[{'iso639_1': 'hr', 'iso639_2': 'hrv', 'name': 'Croatian', 'nativeName': 'hrvatski jezik'}]",Croatian
+58,CUB,Cuba,Americas,Caribbean,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+59,CUW,Curaçao,Americas,Caribbean,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}, {'iso639_1': 'pa', 'iso639_2': 'pan', 'name': '(Eastern) Punjabi', 'nativeName': 'ਪੰਜਾਬੀ'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Dutch;(Eastern) Punjabi;English
+60,CYP,Cyprus,Europe,Southern Europe,"[{'iso639_1': 'el', 'iso639_2': 'ell', 'name': 'Greek (modern)', 'nativeName': 'ελληνικά'}, {'iso639_1': 'tr', 'iso639_2': 'tur', 'name': 'Turkish', 'nativeName': 'Türkçe'}, {'iso639_1': 'hy', 'iso639_2': 'hye', 'name': 'Armenian', 'nativeName': 'Հայերեն'}]",Greek (modern);Turkish;Armenian
+61,CZE,Czech Republic,Europe,Central Europe,"[{'iso639_1': 'cs', 'iso639_2': 'ces', 'name': 'Czech', 'nativeName': 'čeština'}, {'iso639_1': 'sk', 'iso639_2': 'slk', 'name': 'Slovak', 'nativeName': 'slovenčina'}]",Czech;Slovak
+62,DNK,Denmark,Europe,Northern Europe,"[{'iso639_1': 'da', 'iso639_2': 'dan', 'name': 'Danish', 'nativeName': 'dansk'}]",Danish
+63,DJI,Djibouti,Africa,Eastern Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",French;Arabic
+64,DMA,Dominica,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+65,DOM,Dominican Republic,Americas,Caribbean,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+66,ECU,Ecuador,Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+67,EGY,Egypt,Africa,Northern Africa,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+68,SLV,El Salvador,Americas,Central America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+69,GNQ,Equatorial Guinea,Africa,Middle Africa,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}, {'iso639_2': 'fan', 'name': 'Fang', 'nativeName': 'Fang'}]",Spanish;French;Portuguese;Fang
+70,ERI,Eritrea,Africa,Eastern Africa,"[{'iso639_1': 'ti', 'iso639_2': 'tir', 'name': 'Tigrinya', 'nativeName': 'ትግርኛ'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_2': 'tig', 'name': 'Tigre', 'nativeName': 'ትግረ'}, {'iso639_2': 'kun', 'name': 'Kunama', 'nativeName': 'Kunama'}, {'iso639_2': 'ssy', 'name': 'Saho', 'nativeName': 'Saho'}, {'iso639_2': 'byn', 'name': 'Bilen', 'nativeName': 'ብሊና'}, {'iso639_2': 'nrb', 'name': 'Nara', 'nativeName': 'Nara'}, {'iso639_1': 'aa', 'iso639_2': 'aar', 'name': 'Afar', 'nativeName': 'Afar'}]",Tigrinya;Arabic;English;Tigre;Kunama;Saho;Bilen;Nara;Afar
+71,EST,Estonia,Europe,Northern Europe,"[{'iso639_1': 'et', 'iso639_2': 'est', 'name': 'Estonian', 'nativeName': 'eesti'}]",Estonian
+72,ETH,Ethiopia,Africa,Eastern Africa,"[{'iso639_1': 'am', 'iso639_2': 'amh', 'name': 'Amharic', 'nativeName': 'አማርኛ'}]",Amharic
+73,FLK,Falkland Islands (Malvinas),Americas,South America,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+74,FRO,Faroe Islands,Europe,Northern Europe,"[{'iso639_1': 'fo', 'iso639_2': 'fao', 'name': 'Faroese', 'nativeName': 'føroyskt'}]",Faroese
+75,FJI,Fiji,Oceania,Melanesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fj', 'iso639_2': 'fij', 'name': 'Fijian', 'nativeName': 'vosa Vakaviti'}, {'iso639_2': 'hif', 'name': 'Fiji Hindi', 'nativeName': 'फ़िजी बात'}, {'iso639_2': 'rtm', 'name': 'Rotuman', 'nativeName': 'Fäeag Rotuma'}]",English;Fijian;Fiji Hindi;Rotuman
+76,FIN,Finland,Europe,Northern Europe,"[{'iso639_1': 'fi', 'iso639_2': 'fin', 'name': 'Finnish', 'nativeName': 'suomi'}, {'iso639_1': 'sv', 'iso639_2': 'swe', 'name': 'Swedish', 'nativeName': 'svenska'}]",Finnish;Swedish
+77,FRA,France,Europe,Western Europe,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+78,GUF,French Guiana,Americas,South America,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+79,PYF,French Polynesia,Oceania,Polynesia,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+80,ATF,French Southern Territories,Africa,Southern Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+81,GAB,Gabon,Africa,Middle Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+82,GMB,Gambia,Africa,Western Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+83,GEO,Georgia,Asia,Western Asia,"[{'iso639_1': 'ka', 'iso639_2': 'kat', 'name': 'Georgian', 'nativeName': 'ქართული'}]",Georgian
+84,DEU,Germany,Europe,Central Europe,"[{'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",German
+85,GHA,Ghana,Africa,Western Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+86,GIB,Gibraltar,Europe,Southern Europe,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+87,GRC,Greece,Europe,Southern Europe,"[{'iso639_1': 'el', 'iso639_2': 'ell', 'name': 'Greek (modern)', 'nativeName': 'ελληνικά'}]",Greek (modern)
+88,GRL,Greenland,Americas,Northern America,"[{'iso639_1': 'kl', 'iso639_2': 'kal', 'name': 'Kalaallisut', 'nativeName': 'kalaallisut'}]",Kalaallisut
+89,GRD,Grenada,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+90,GLP,Guadeloupe,Americas,Caribbean,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+91,GUM,Guam,Oceania,Micronesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ch', 'iso639_2': 'cha', 'name': 'Chamorro', 'nativeName': 'Chamoru'}, {'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",English;Chamorro;Spanish
+92,GTM,Guatemala,Americas,Central America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+93,GGY,Guernsey,Europe,Northern Europe,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",English;French
+94,GIN,Guinea,Africa,Western Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ff', 'iso639_2': 'ful', 'name': 'Fula', 'nativeName': 'Fulfulde'}]",French;Fula
+95,GNB,Guinea-Bissau,Africa,Western Africa,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Portuguese
+96,GUY,Guyana,Americas,South America,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+97,HTI,Haiti,Americas,Caribbean,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ht', 'iso639_2': 'hat', 'name': 'Haitian', 'nativeName': 'Kreyòl ayisyen'}]",French;Haitian
+98,HMD,Heard Island and McDonald Islands,Antarctic,Antarctic,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+99,VAT,Vatican City,Europe,Southern Europe,"[{'iso639_1': 'la', 'iso639_2': 'lat', 'name': 'Latin', 'nativeName': 'latine'}, {'iso639_1': 'it', 'iso639_2': 'ita', 'name': 'Italian', 'nativeName': 'Italiano'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'Français'}, {'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",Latin;Italian;French;German
+100,HND,Honduras,Americas,Central America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+101,HUN,Hungary,Europe,Central Europe,"[{'iso639_1': 'hu', 'iso639_2': 'hun', 'name': 'Hungarian', 'nativeName': 'magyar'}]",Hungarian
+102,HKG,Hong Kong,Asia,Eastern Asia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}]",English;Chinese
+103,ISL,Iceland,Europe,Northern Europe,"[{'iso639_1': 'is', 'iso639_2': 'isl', 'name': 'Icelandic', 'nativeName': 'Íslenska'}]",Icelandic
+104,IND,India,Asia,Southern Asia,"[{'iso639_1': 'hi', 'iso639_2': 'hin', 'name': 'Hindi', 'nativeName': 'हिन्दी'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Hindi;English
+105,IDN,Indonesia,Asia,South-Eastern Asia,"[{'iso639_1': 'id', 'iso639_2': 'ind', 'name': 'Indonesian', 'nativeName': 'Bahasa Indonesia'}]",Indonesian
+106,CIV,Ivory Coast,Africa,Western Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+107,IRN,Iran (Islamic Republic of),Asia,Southern Asia,"[{'iso639_1': 'fa', 'iso639_2': 'fas', 'name': 'Persian (Farsi)', 'nativeName': 'فارسی'}]",Persian (Farsi)
+108,IRQ,Iraq,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'ku', 'iso639_2': 'kur', 'name': 'Kurdish', 'nativeName': 'Kurdî'}]",Arabic;Kurdish
+109,IRL,Ireland,Europe,Northern Europe,"[{'iso639_1': 'ga', 'iso639_2': 'gle', 'name': 'Irish', 'nativeName': 'Gaeilge'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Irish;English
+110,IMN,Isle of Man,Europe,Northern Europe,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'gv', 'iso639_2': 'glv', 'name': 'Manx', 'nativeName': 'Gaelg'}]",English;Manx
+111,ISR,Israel,Asia,Western Asia,"[{'iso639_1': 'he', 'iso639_2': 'heb', 'name': 'Hebrew (modern)', 'nativeName': 'עברית'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Hebrew (modern);Arabic
+112,ITA,Italy,Europe,Southern Europe,"[{'iso639_1': 'it', 'iso639_2': 'ita', 'name': 'Italian', 'nativeName': 'Italiano'}]",Italian
+113,JAM,Jamaica,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+114,JPN,Japan,Asia,Eastern Asia,"[{'iso639_1': 'ja', 'iso639_2': 'jpn', 'name': 'Japanese', 'nativeName': '日本語 (にほんご)'}]",Japanese
+115,JEY,Jersey,Europe,Northern Europe,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",English;French
+116,JOR,Jordan,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+117,KAZ,Kazakhstan,Asia,Central Asia,"[{'iso639_1': 'kk', 'iso639_2': 'kaz', 'name': 'Kazakh', 'nativeName': 'қазақ тілі'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",Kazakh;Russian
+118,KEN,Kenya,Africa,Eastern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'sw', 'iso639_2': 'swa', 'name': 'Swahili', 'nativeName': 'Kiswahili'}]",English;Swahili
+119,KIR,Kiribati,Oceania,Micronesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+120,KWT,Kuwait,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+121,KGZ,Kyrgyzstan,Asia,Central Asia,"[{'iso639_1': 'ky', 'iso639_2': 'kir', 'name': 'Kyrgyz', 'nativeName': 'Кыргызча'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",Kyrgyz;Russian
+122,LAO,Lao People's Democratic Republic,Asia,South-Eastern Asia,"[{'iso639_1': 'lo', 'iso639_2': 'lao', 'name': 'Lao', 'nativeName': 'ພາສາລາວ'}]",Lao
+123,LVA,Latvia,Europe,Northern Europe,"[{'iso639_1': 'lv', 'iso639_2': 'lav', 'name': 'Latvian', 'nativeName': 'latviešu valoda'}]",Latvian
+124,LBN,Lebanon,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",Arabic;French
+125,LSO,Lesotho,Africa,Southern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'st', 'iso639_2': 'sot', 'name': 'Southern Sotho', 'nativeName': 'Sesotho'}]",English;Southern Sotho
+126,LBR,Liberia,Africa,Western Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+127,LBY,Libya,Africa,Northern Africa,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+128,LIE,Liechtenstein,Europe,Central Europe,"[{'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",German
+129,LTU,Lithuania,Europe,Northern Europe,"[{'iso639_1': 'lt', 'iso639_2': 'lit', 'name': 'Lithuanian', 'nativeName': 'lietuvių kalba'}]",Lithuanian
+130,LUX,Luxembourg,Europe,Western Europe,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}, {'iso639_1': 'lb', 'iso639_2': 'ltz', 'name': 'Luxembourgish', 'nativeName': 'Lëtzebuergesch'}]",French;German;Luxembourgish
+131,MAC,Macao,Asia,Eastern Asia,"[{'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}, {'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Chinese;Portuguese
+132,MKD,North Macedonia,Europe,Southern Europe,"[{'iso639_1': 'mk', 'iso639_2': 'mkd', 'name': 'Macedonian', 'nativeName': 'македонски јазик'}]",Macedonian
+133,MDG,Madagascar,Africa,Eastern Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'mg', 'iso639_2': 'mlg', 'name': 'Malagasy', 'nativeName': 'fiteny malagasy'}]",French;Malagasy
+134,MWI,Malawi,Africa,Eastern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ny', 'iso639_2': 'nya', 'name': 'Chichewa', 'nativeName': 'chiCheŵa'}]",English;Chichewa
+135,MYS,Malaysia,Asia,South-Eastern Asia,"[{'iso639_1': 'ms', 'iso639_2': 'zsm', 'name': 'Malaysian', 'nativeName': 'بهاس مليسيا'}]",Malaysian
+136,MDV,Maldives,Asia,Southern Asia,"[{'iso639_1': 'dv', 'iso639_2': 'div', 'name': 'Divehi', 'nativeName': 'ދިވެހި'}]",Divehi
+137,MLI,Mali,Africa,Western Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+138,MLT,Malta,Europe,Southern Europe,"[{'iso639_1': 'mt', 'iso639_2': 'mlt', 'name': 'Maltese', 'nativeName': 'Malti'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Maltese;English
+139,MHL,Marshall Islands,Oceania,Micronesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'mh', 'iso639_2': 'mah', 'name': 'Marshallese', 'nativeName': 'Kajin M̧ajeļ'}]",English;Marshallese
+140,MTQ,Martinique,Americas,Caribbean,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+141,MRT,Mauritania,Africa,Western Africa,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+142,MUS,Mauritius,Africa,Eastern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+143,MYT,Mayotte,Africa,Eastern Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+144,MEX,Mexico,Americas,North America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+145,FSM,Micronesia (Federated States of),Oceania,Micronesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+146,MDA,Moldova (Republic of),Europe,Eastern Europe,"[{'iso639_1': 'ro', 'iso639_2': 'ron', 'name': 'Romanian', 'nativeName': 'Română'}]",Romanian
+147,MCO,Monaco,Europe,Western Europe,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+148,MNG,Mongolia,Asia,Eastern Asia,"[{'iso639_1': 'mn', 'iso639_2': 'mon', 'name': 'Mongolian', 'nativeName': 'Монгол хэл'}]",Mongolian
+149,MNE,Montenegro,Europe,Southern Europe,"[{'iso639_1': 'sr', 'iso639_2': 'srp', 'name': 'Serbian', 'nativeName': 'српски језик'}, {'iso639_1': 'bs', 'iso639_2': 'bos', 'name': 'Bosnian', 'nativeName': 'bosanski jezik'}, {'iso639_1': 'sq', 'iso639_2': 'sqi', 'name': 'Albanian', 'nativeName': 'Shqip'}, {'iso639_1': 'hr', 'iso639_2': 'hrv', 'name': 'Croatian', 'nativeName': 'hrvatski jezik'}]",Serbian;Bosnian;Albanian;Croatian
+150,MSR,Montserrat,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+151,MAR,Morocco,Africa,Northern Africa,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+152,MOZ,Mozambique,Africa,Eastern Africa,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Portuguese
+153,MMR,Myanmar,Asia,South-Eastern Asia,"[{'iso639_1': 'my', 'iso639_2': 'mya', 'name': 'Burmese', 'nativeName': 'ဗမာစာ'}]",Burmese
+154,NAM,Namibia,Africa,Southern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'af', 'iso639_2': 'afr', 'name': 'Afrikaans', 'nativeName': 'Afrikaans'}]",English;Afrikaans
+155,NRU,Nauru,Oceania,Micronesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'na', 'iso639_2': 'nau', 'name': 'Nauruan', 'nativeName': 'Dorerin Naoero'}]",English;Nauruan
+156,NPL,Nepal,Asia,Southern Asia,"[{'iso639_1': 'ne', 'iso639_2': 'nep', 'name': 'Nepali', 'nativeName': 'नेपाली'}]",Nepali
+157,NLD,Netherlands,Europe,Western Europe,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}]",Dutch
+158,NCL,New Caledonia,Oceania,Melanesia,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+159,NZL,New Zealand,Oceania,Australia and New Zealand,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'mi', 'iso639_2': 'mri', 'name': 'Māori', 'nativeName': 'te reo Māori'}]",English;Māori
+160,NIC,Nicaragua,Americas,Central America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+161,NER,Niger,Africa,Western Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+162,NGA,Nigeria,Africa,Western Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+163,NIU,Niue,Oceania,Polynesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+164,NFK,Norfolk Island,Oceania,Australia and New Zealand,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+165,PRK,Korea (Democratic People's Republic of),Asia,Eastern Asia,"[{'iso639_1': 'ko', 'iso639_2': 'kor', 'name': 'Korean', 'nativeName': '한국어'}]",Korean
+166,MNP,Northern Mariana Islands,Oceania,Micronesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ch', 'iso639_2': 'cha', 'name': 'Chamorro', 'nativeName': 'Chamoru'}]",English;Chamorro
+167,NOR,Norway,Europe,Northern Europe,"[{'iso639_1': 'no', 'iso639_2': 'nor', 'name': 'Norwegian', 'nativeName': 'Norsk'}, {'iso639_1': 'nb', 'iso639_2': 'nob', 'name': 'Norwegian Bokmål', 'nativeName': 'Norsk bokmål'}, {'iso639_1': 'nn', 'iso639_2': 'nno', 'name': 'Norwegian Nynorsk', 'nativeName': 'Norsk nynorsk'}]",Norwegian;Norwegian Bokmål;Norwegian Nynorsk
+168,OMN,Oman,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+169,PAK,Pakistan,Asia,Southern Asia,"[{'iso639_1': 'ur', 'iso639_2': 'urd', 'name': 'Urdu', 'nativeName': 'اردو'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Urdu;English
+170,PLW,Palau,Oceania,Micronesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+171,PSE,"Palestine, State of",Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+172,PAN,Panama,Americas,Central America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+173,PNG,Papua New Guinea,Oceania,Melanesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+174,PRY,Paraguay,Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'gn', 'iso639_2': 'grn', 'name': 'Guaraní', 'nativeName': ""Avañe'ẽ""}]",Spanish;Guaraní
+175,PER,Peru,Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+176,PHL,Philippines,Asia,South-Eastern Asia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+177,PCN,Pitcairn,Oceania,Polynesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+178,POL,Poland,Europe,Central Europe,"[{'iso639_1': 'pl', 'iso639_2': 'pol', 'name': 'Polish', 'nativeName': 'język polski'}]",Polish
+179,PRT,Portugal,Europe,Southern Europe,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Portuguese
+180,PRI,Puerto Rico,Americas,Caribbean,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Spanish;English
+181,QAT,Qatar,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+182,UNK,Republic of Kosovo,Europe,Eastern Europe,"[{'iso639_1': 'sq', 'iso639_2': 'sqi', 'name': 'Albanian', 'nativeName': 'Shqip'}, {'iso639_1': 'sr', 'iso639_2': 'srp', 'name': 'Serbian', 'nativeName': 'српски језик'}]",Albanian;Serbian
+183,REU,Réunion,Africa,Eastern Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+184,ROU,Romania,Europe,Eastern Europe,"[{'iso639_1': 'ro', 'iso639_2': 'ron', 'name': 'Romanian', 'nativeName': 'Română'}]",Romanian
+185,RUS,Russian Federation,Europe,Eastern Europe,"[{'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",Russian
+186,RWA,Rwanda,Africa,Eastern Africa,"[{'iso639_1': 'rw', 'iso639_2': 'kin', 'name': 'Kinyarwanda', 'nativeName': 'Ikinyarwanda'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",Kinyarwanda;English;French
+187,BLM,Saint Barthélemy,Americas,Caribbean,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+188,SHN,"Saint Helena, Ascension and Tristan da Cunha",Africa,Western Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+189,KNA,Saint Kitts and Nevis,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+190,LCA,Saint Lucia,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+191,MAF,Saint Martin (French part),Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}]",English;French;Dutch
+192,SPM,Saint Pierre and Miquelon,Americas,Northern America,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+193,VCT,Saint Vincent and the Grenadines,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+194,WSM,Samoa,Oceania,Polynesia,"[{'iso639_1': 'sm', 'iso639_2': 'smo', 'name': 'Samoan', 'nativeName': ""gagana fa'a Samoa""}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Samoan;English
+195,SMR,San Marino,Europe,Southern Europe,"[{'iso639_1': 'it', 'iso639_2': 'ita', 'name': 'Italian', 'nativeName': 'Italiano'}]",Italian
+196,STP,Sao Tome and Principe,Africa,Middle Africa,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Portuguese
+197,SAU,Saudi Arabia,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+198,SEN,Senegal,Africa,Western Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+199,SRB,Serbia,Europe,Southern Europe,"[{'iso639_1': 'sr', 'iso639_2': 'srp', 'name': 'Serbian', 'nativeName': 'српски језик'}]",Serbian
+200,SYC,Seychelles,Africa,Eastern Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",French;English
+201,SLE,Sierra Leone,Africa,Western Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+202,SGP,Singapore,Asia,South-Eastern Asia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ms', 'iso639_2': 'msa', 'name': 'Malay', 'nativeName': 'bahasa Melayu'}, {'iso639_1': 'ta', 'iso639_2': 'tam', 'name': 'Tamil', 'nativeName': 'தமிழ்'}, {'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}]",English;Malay;Tamil;Chinese
+203,SXM,Sint Maarten (Dutch part),Americas,Caribbean,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Dutch;English
+204,SVK,Slovakia,Europe,Central Europe,"[{'iso639_1': 'sk', 'iso639_2': 'slk', 'name': 'Slovak', 'nativeName': 'slovenčina'}]",Slovak
+205,SVN,Slovenia,Europe,Southern Europe,"[{'iso639_1': 'sl', 'iso639_2': 'slv', 'name': 'Slovene', 'nativeName': 'slovenski jezik'}]",Slovene
+206,SLB,Solomon Islands,Oceania,Melanesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+207,SOM,Somalia,Africa,Eastern Africa,"[{'iso639_1': 'so', 'iso639_2': 'som', 'name': 'Somali', 'nativeName': 'Soomaaliga'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Somali;Arabic
+208,ZAF,South Africa,Africa,Southern Africa,"[{'iso639_1': 'af', 'iso639_2': 'afr', 'name': 'Afrikaans', 'nativeName': 'Afrikaans'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'nr', 'iso639_2': 'nbl', 'name': 'Southern Ndebele', 'nativeName': 'isiNdebele'}, {'iso639_1': 'st', 'iso639_2': 'sot', 'name': 'Southern Sotho', 'nativeName': 'Sesotho'}, {'iso639_1': 'ss', 'iso639_2': 'ssw', 'name': 'Swati', 'nativeName': 'SiSwati'}, {'iso639_1': 'tn', 'iso639_2': 'tsn', 'name': 'Tswana', 'nativeName': 'Setswana'}, {'iso639_1': 'ts', 'iso639_2': 'tso', 'name': 'Tsonga', 'nativeName': 'Xitsonga'}, {'iso639_1': 've', 'iso639_2': 'ven', 'name': 'Venda', 'nativeName': 'Tshivenḓa'}, {'iso639_1': 'xh', 'iso639_2': 'xho', 'name': 'Xhosa', 'nativeName': 'isiXhosa'}, {'iso639_1': 'zu', 'iso639_2': 'zul', 'name': 'Zulu', 'nativeName': 'isiZulu'}]",Afrikaans;English;Southern Ndebele;Southern Sotho;Swati;Tswana;Tsonga;Venda;Xhosa;Zulu
+209,SGS,South Georgia and the South Sandwich Islands,Americas,South America,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+210,KOR,Korea (Republic of),Asia,Eastern Asia,"[{'iso639_1': 'ko', 'iso639_2': 'kor', 'name': 'Korean', 'nativeName': '한국어'}]",Korean
+211,ESP,Spain,Europe,Southern Europe,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+212,LKA,Sri Lanka,Asia,Southern Asia,"[{'iso639_1': 'si', 'iso639_2': 'sin', 'name': 'Sinhalese', 'nativeName': 'සිංහල'}, {'iso639_1': 'ta', 'iso639_2': 'tam', 'name': 'Tamil', 'nativeName': 'தமிழ்'}]",Sinhalese;Tamil
+213,SDN,Sudan,Africa,Northern Africa,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Arabic;English
+214,SSD,South Sudan,Africa,Middle Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+215,SUR,Suriname,Americas,South America,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}]",Dutch
+216,SJM,Svalbard and Jan Mayen,Europe,Northern Europe,"[{'iso639_1': 'no', 'iso639_2': 'nor', 'name': 'Norwegian', 'nativeName': 'Norsk'}]",Norwegian
+217,SWZ,Swaziland,Africa,Southern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ss', 'iso639_2': 'ssw', 'name': 'Swati', 'nativeName': 'SiSwati'}]",English;Swati
+218,SWE,Sweden,Europe,Northern Europe,"[{'iso639_1': 'sv', 'iso639_2': 'swe', 'name': 'Swedish', 'nativeName': 'svenska'}]",Swedish
+219,CHE,Switzerland,Europe,Central Europe,"[{'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'it', 'iso639_2': 'ita', 'name': 'Italian', 'nativeName': 'Italiano'}, {'iso639_2': 'roh', 'name': 'Romansh'}]",German;French;Italian;Romansh
+220,SYR,Syrian Arab Republic,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+221,TWN,Taiwan,Asia,Eastern Asia,"[{'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}]",Chinese
+222,TJK,Tajikistan,Asia,Central Asia,"[{'iso639_1': 'tg', 'iso639_2': 'tgk', 'name': 'Tajik', 'nativeName': 'тоҷикӣ'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",Tajik;Russian
+223,TZA,"Tanzania, United Republic of",Africa,Eastern Africa,"[{'iso639_1': 'sw', 'iso639_2': 'swa', 'name': 'Swahili', 'nativeName': 'Kiswahili'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",Swahili;English
+224,THA,Thailand,Asia,South-Eastern Asia,"[{'iso639_1': 'th', 'iso639_2': 'tha', 'name': 'Thai', 'nativeName': 'ไทย'}]",Thai
+225,TLS,Timor-Leste,Asia,South-Eastern Asia,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",Portuguese
+226,TGO,Togo,Africa,Western Africa,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+227,TKL,Tokelau,Oceania,Polynesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+228,TON,Tonga,Oceania,Polynesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'to', 'iso639_2': 'ton', 'name': 'Tonga (Tonga Islands)', 'nativeName': 'faka Tonga'}]",English;Tonga (Tonga Islands)
+229,TTO,Trinidad and Tobago,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+230,TUN,Tunisia,Africa,Northern Africa,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+231,TUR,Turkey,Asia,Western Asia,"[{'iso639_1': 'tr', 'iso639_2': 'tur', 'name': 'Turkish', 'nativeName': 'Türkçe'}]",Turkish
+232,TKM,Turkmenistan,Asia,Central Asia,"[{'iso639_1': 'tk', 'iso639_2': 'tuk', 'name': 'Turkmen', 'nativeName': 'Türkmen'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",Turkmen;Russian
+233,TCA,Turks and Caicos Islands,Americas,Caribbean,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+234,TUV,Tuvalu,Oceania,Polynesia,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+235,UGA,Uganda,Africa,Eastern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'sw', 'iso639_2': 'swa', 'name': 'Swahili', 'nativeName': 'Kiswahili'}]",English;Swahili
+236,UKR,Ukraine,Europe,Eastern Europe,"[{'iso639_1': 'uk', 'iso639_2': 'ukr', 'name': 'Ukrainian', 'nativeName': 'Українська'}]",Ukrainian
+237,ARE,United Arab Emirates,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+238,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+239,USA,United States of America,Americas,Northern America,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+240,URY,Uruguay,Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+241,UZB,Uzbekistan,Asia,Central Asia,"[{'iso639_1': 'uz', 'iso639_2': 'uzb', 'name': 'Uzbek', 'nativeName': 'Oʻzbek'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",Uzbek;Russian
+242,VUT,Vanuatu,Oceania,Melanesia,"[{'iso639_1': 'bi', 'iso639_2': 'bis', 'name': 'Bislama', 'nativeName': 'Bislama'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",Bislama;English;French
+243,VEN,Venezuela (Bolivarian Republic of),Americas,South America,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+244,VNM,Vietnam,Asia,South-Eastern Asia,"[{'iso639_1': 'vi', 'iso639_2': 'vie', 'name': 'Vietnamese', 'nativeName': 'Tiếng Việt'}]",Vietnamese
+245,WLF,Wallis and Futuna,Oceania,Polynesia,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",French
+246,ESH,Western Sahara,Africa,Northern Africa,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",Spanish
+247,YEM,Yemen,Asia,Western Asia,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",Arabic
+248,ZMB,Zambia,Africa,Eastern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",English
+249,ZWE,Zimbabwe,Africa,Southern Africa,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'sn', 'iso639_2': 'sna', 'name': 'Shona', 'nativeName': 'chiShona'}, {'iso639_1': 'nd', 'iso639_2': 'nde', 'name': 'Northern Ndebele', 'nativeName': 'isiNdebele'}]",English;Shona;Northern Ndebele
