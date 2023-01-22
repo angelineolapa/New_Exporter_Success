@@ -10,6 +10,7 @@ dash = "*"
 dash-labs = "*"
 dash-bootstrap-components = "*"
 scikit-learn = "*"
+gunicorn = "*"
 
 [dev-packages]
 
