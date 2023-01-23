@@ -39,10 +39,23 @@ All steps in modelling, review of feature significance and parameter tuning are 
 
 ## 6. Reproducibility
 
-This project can be reproduced locally in three ways after cloning the repository and opening a command line in the corresponding folder:
-1. Create a local environment with the pipfiles and run the test-predict.py script which serves a simple flask app with data from a sample exporter and returns the probability of success.
-2. Create a local environment with the pipfiles and run the app.py to create the WebApp designed for this project. A test version of the app will run locally at the IP address provided once the script finishes running.
-3. Build the docker container - docker build -t exporter-success . - and run it - docker run -it -p 9696:9696 exporter-success:latest. The WebApp is served using unicorn so it will not work in Windows-based environments. 
+This project can be reproduced locally in three ways after cloning the repository and opening a command line in the WebApp folder:
+
+1. Through a simple flash app to serve the model:
+  -Create a local environment with the pipfiles: pipenv install + pipenv shell
+  -Run the predict.py script to start the flask app that serves the model
+  -Open another command line in the folder, run the test-predict.py that sends a request with data from a sample exporter
+  The probability of success will appear in the command prompt.
+  
+2. Building a dash app locally:
+  -Create a local environment with the pipfiles: pipenv install + pipenv shell
+  -Run the app.py script to create the WebApp designed for this project. 
+  A test version of the app will run locally at the IP address provided once the script finishes running.
+
+3. From the docker container: 
+  -Build the docker container: - docker build -t exporter-success . - 
+  -Run it - docker run -it -p 9696:9696 exporter-success:latest. 
+  Please note that this WebApp is served using unicorn so it will not work in Windows-based environments. 
 
 As mentioned previously, all the notebooks that contain all the steps for creating the dataset and tuning the model are also available in this repository.
 
