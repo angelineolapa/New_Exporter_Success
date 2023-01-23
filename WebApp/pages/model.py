@@ -228,8 +228,8 @@ layout = html.Div([
         ], prevent_initial_call=True
     )
 
-def predict(year_selector, exporter_selector, exp_region_selector, product_value_selector, market_selector, product_selector,
-    pnk_selector, other_exp_selector, markets_selector, products_selector, experience_selector, n_clicks):
+def predict( experience_selector, products_selector, markets_selector, other_exp_selector, pnk_selector, product_selector, 
+    market_selector, product_value_selector, exp_region_selector, exporter_selector, year_selector, n_clicks):
 
     prod_class = hs_sections[hs_sections["chapter"]==int(product_selector[0:2])]["section"].values[0]
 
