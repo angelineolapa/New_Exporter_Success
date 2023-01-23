@@ -263,7 +263,7 @@ def predict(year_selector, exporter_selector, exp_region_selector, product_value
 
     overall_exp = markets_selector * products_selector
 
-    results = {"year": year_selector, "exporter":exporter_selector, "exp_region":exp_region_selector, "product_nation":product_value_selector, 
+    results = {"year": year_selector, "exporter":exporter_selector, "exp_region":exp_region_selector, "product_national":product_value_selector, 
         "market":market_selector, "product":product_selector, "pnk":pnk_selector, "freight":freight_selector,
         "insurance": insurance_selector, "other_expenses":other_exp_selector, "active_markets":markets_selector, 
         "active_products":products_selector, "active_years":experience_selector, "prod_class":prod_class,
