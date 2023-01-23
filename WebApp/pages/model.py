@@ -174,7 +174,7 @@ product_value_input = dbc.Row(
 )
 
 form = dbc.Form([year_input, exporter_input, exp_region_input, product_value_input, market_input, product_input, pnk_input, 
-        freight_input, insurance_input, other_exp_input, markets_input, products_input,
+        other_exp_input, markets_input, products_input,
         experience_input], id="model_form")
 
 #Generate Card with Prediction Results
