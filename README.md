@@ -33,7 +33,7 @@ Considering the characteristics of the dependent variable, three types of model 
 
 Two other models, random forest and XGBoost were also trained with the same selected features and evaluated. Parameter tuning was conductedin both cases. Metrics for the resulting models after the tuning showed a significant improvement and were very similar among them. A random forest was selected as the final model. 
 
-All steps in modelling, review of feature significance and parameter tuning are available in notebook2.ipynb.
+All steps in modelling, review of feature significance and parameter tuning are available in [notebook2.ipynb](https://github.com/angelineolapa/New_Exporter_Success/blob/main/Notebooks/notebook2.ipynb).
 
 ## 5. Deployment
 
