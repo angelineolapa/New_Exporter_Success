@@ -19,9 +19,31 @@ The dataset was completed by adding additional features about the new market, su
 
 All steps to obtain the dataset from original export records (available for download at https://microdatos.dane.gov.co/index.php/catalog/472/get-microdata) are included in notebook1.ipynb. 
 
-## 3. Exploratory Data Analysis
+## 3. Exploratory Data Analysis (EDA)
+
+To build a successful model for prediction of exporter success, it is key to explore different factors that could have an impact on this outcome and select those that appear to have the most incidence. As described in the previous section, for this project additional data was added to export records in order to create new features that could be relevant. Features added include gdp per capita, region and language of new market, exporter experience and region in Colombia were it is located, export product classifications and free trade agreement information. These features were explored graphically and analysis of feature importance was also conducted. 
+
+In addition, the dependant variable - success - was also explored to verify whether data was imbalanced and consider measures to address this problem if present. The variable fortunately did not have this problem so it was not necessary to take additional steps for modelling.
+
+All results of the EDA are available in notebook2.ipynb and some visualizations were included in the webapp developed for this project.
 
 ## 4. Model
+
+Considering the characteristics of the dependent variable, three types of model were tested in this project. A first approach was to build a logistic regression with the variables that were identified as relevant in the EDA. Adjustments on the target features were made based on their significance, to derive a set of target varaibles for training a final selected logistic regression model. Different metrics were considered to evaluate this model and cross validation was also conducted. The performance of logistic regression was not outstanding
+
+Two other models, random forest and XGBoost were also trained with the same selected features and evaluated. Parameter tuning was conductedin both cases. Metrics for the resulting models after the tuning showed a significant improvement and were very similar among them. A random forest was selected as the final model. 
+
+All steps in modelling, review of feature significance and parameter tuning are available in notebook2.ipynb.
+
 ## 5. Deployment
+
 ## 6. Reproducibility
+
+This project can be reproduced locally in three ways after cloning the repository and opening a command line in the corresponding folder:
+1. Create a local environment with the pipfiles and run the test-predict.py script which serves a simple flask app with data from a sample exporter and returns the probability of success.
+2. Create a local environment with the pipfiles and run the app.py to create the WebApp designed for this project. A test version of the app will run locally at the IP address provided once the script finishes running.
+3. Build the docker container - docker build -t exporter-success . - and run it - docker run -it -p 9696:9696 exporter-success:latest. The WebApp is served using unicorn so it will not work in Windows-based environments. 
+
+As mentioned previously, all the notebooks that contain all the steps for creating the dataset and tuning the model are also available in this repository.
+
 ## 7. References
