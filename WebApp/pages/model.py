@@ -93,7 +93,7 @@ exp_region_input = dbc.Row(
         dbc.Label("Region of Exporter", html_for="model_form_exp_region", width="auto"),
         dbc.Col(
             dbc.RadioItems(
-                id="model_form_gender",
+                id="model_form_exp_region",
                 options=[
                     {"label": "Región Caribe", "value": "caribe"},
                     {"label": "Región Eje Cafetero y Antioquia", "value": "cafetera"},
