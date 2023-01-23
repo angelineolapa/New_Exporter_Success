@@ -1,5 +1,5 @@
 **ML Zoomcamp - Capstone Project 2**
-# New exporter success prediction tool
+# New Exporter Success Prediction Tool
 
 ## 1. Problem Description
 
