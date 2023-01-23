@@ -184,9 +184,9 @@ other_exp_input = dbc.Row(
     className="mb-3",
 )
 
-exp_value_input = dbc.Row(
+product_value_input = dbc.Row(
     [
-        dbc.Label("Total Value of Exports", html_for="model_form_exp_value", width="auto"),
+        dbc.Label("Total National Value for HS Code", html_for="model_form_exp_value", width="auto"),
             dbc.Col(
                 dbc.Input(type="number", placeholder="Enter total value of exports in previous year"),
                 className="me-3",
@@ -195,7 +195,7 @@ exp_value_input = dbc.Row(
     className="mb-3",
 )
 
-form = dbc.Form([year_input, exporter_input, exp_region_input, exp_value_input, market_input, product_input, pnk_input, 
+form = dbc.Form([year_input, exporter_input, exp_region_input, product_value_input, market_input, product_input, pnk_input, 
         freight_input, insurance_input, other_exp_input, markets_input, products_input,
         experience_input], id="model_form")
 
@@ -243,7 +243,7 @@ layout = html.Div([
          State("model_form_pnk", "value"),
          State("model_form_product", "value"),
          State("model_form_market", "value"),
-         State("model_form_exp_value", "value"),
+         State("model_form_product_value", "value"),
          State("model_form_exp_region", "value"),
          State("model_form_exporter", "value"),
          State("model_form_year", "value"),
@@ -251,7 +251,7 @@ layout = html.Div([
         ], prevent_initial_call=True
     )
 
-def predict(year_selector, exporter_selector, exp_region_selector, exp_value_selector, market_selector, product_selector,
+def predict(year_selector, exporter_selector, exp_region_selector, product_value_selector, market_selector, product_selector,
     pnk_selector, freight_selector, insurance_selector, other_exp_selector, markets_selector, 
     products_selector, experience_selector, n_clicks):
 
@@ -263,7 +263,7 @@ def predict(year_selector, exporter_selector, exp_region_selector, exp_value_sel
 
     overall_exp = markets_selector * products_selector
 
-    results = {"year": year_selector, "exporter":exporter_selector, "exp_region":exp_region_selector, "exports_value":exp_value_selector, 
+    results = {"year": year_selector, "exporter":exporter_selector, "exp_region":exp_region_selector, "product_nation":product_value_selector, 
         "market":market_selector, "product":product_selector, "pnk":pnk_selector, "freight":freight_selector,
         "insurance": insurance_selector, "other_expenses":other_exp_selector, "active_markets":markets_selector, 
         "active_products":products_selector, "active_years":experience_selector, "prod_class":prod_class,
