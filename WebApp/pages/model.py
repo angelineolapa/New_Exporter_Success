@@ -10,7 +10,7 @@ from assets.model.prediction import generate_prediction
 
 #Add alerts to page registry
 register_page(__name__, path="/model", name= "Model", 
-    title="Dashboard para el monitoreo de IAAS en el HUV - Prediction Tool", order=3)
+    title="Tool to predict the success of new Colombian exporters - Prediction Tool", order=3)
     
 #Generate side menu
 sidemenu = sidemenu_generator()
@@ -47,7 +47,7 @@ year_input = dbc.Row(
     [
         dbc.Label("Year", html_for="model_form_year", width="auto"),
         dbc.Col(
-                dbc.Input(type="number", placeholder="YY"),
+                dbc.Input(id="model_form_year", type="number", placeholder="YY"),
                 className="me-3",
             ),
     ],
@@ -58,7 +58,7 @@ exporter_input = dbc.Row(
     [
         dbc.Label("Exporter Tax Code", html_for="model_form_exporter", width="auto"),
         dbc.Col(
-                dbc.Input(type="text", placeholder="Enter exporter tax code"),
+                dbc.Input(id="model_form_exporter", type="text", placeholder="Enter exporter tax code"),
                 className="me-3",
             ),
     ],
@@ -69,7 +69,7 @@ market_input = dbc.Row(
     [
         dbc.Label("Country of Destination *", html_for="model_form_market", width="auto"),
         dbc.Col(
-                dbc.Input(type="text", placeholder="Enter code of country of destination"),
+                dbc.Input(id="model_form_market", type="text", placeholder="Enter code of country of destination"),
                 className="me-3",
             ),
     ],
@@ -81,7 +81,7 @@ product_input = dbc.Row(
     [
         dbc.Label("Product **", html_for="model_form_product", width="auto"),
         dbc.Col(
-                dbc.Input(type="text", placeholder="Enter HS code of product"),
+                dbc.Input(id="model_form_product", type="text", placeholder="Enter HS code of product"),
                 className="me-3",
             ),
     ],
@@ -113,7 +113,8 @@ markets_input = dbc.Row(
     [
         dbc.Label("Other markets of activity", html_for="model_form_markets", width="auto"),
         dbc.Col(
-            dbc.Input(type="number", placeholder="Enter no. markets in which exporter is trading"),
+            dbc.Input(id="model_form_markets", type="number", 
+            placeholder="Enter no. markets in which exporter is trading"),
         )
     ],
     className="mb-3",
@@ -124,7 +125,7 @@ products_input = dbc.Row(
     [
         dbc.Label("Other export products", html_for="model_form_products", width="auto"),
         dbc.Col(
-            dbc.Input(type="number", placeholder="Enter no. products that exporter is trading"),
+            dbc.Input(id="model_form_products", type="number", placeholder="Enter no. products that exporter is trading"),
         )
     ],
     className="mb-3",
@@ -134,7 +135,7 @@ experience_input = dbc.Row(
     [
         dbc.Label("Years of exporting activity", html_for="model_form_experience", width="auto"),
         dbc.Col(
-            dbc.Input(type="number", placeholder="Enter years of exporting activity"),
+            dbc.Input(id="model_form_experience", type="number", placeholder="Enter years of exporting activity"),
         )
     ],
     className="mb-3",
@@ -144,7 +145,7 @@ pnk_input = dbc.Row(
     [
         dbc.Label("Net Weight of Shipment", html_for="model_form_pnk", width="auto"),
             dbc.Col(
-                dbc.Input(type="number", placeholder="Enter net weight in kgs."),
+                dbc.Input(id="model_form_pnk", type="number", placeholder="Enter net weight in kgs."),
                 className="me-3",
             ),
     ],
@@ -155,7 +156,7 @@ other_exp_input = dbc.Row(
     [
         dbc.Label("Other Expenses", html_for="model_form_other_exp", width="auto"),
             dbc.Col(
-                dbc.Input(type="number", placeholder="Enter other expenses in USD."),
+                dbc.Input(id="model_form_other_exp", type="number", placeholder="Enter other expenses in USD."),
                 className="me-3",
             ),
     ],
@@ -166,7 +167,7 @@ product_value_input = dbc.Row(
     [
         dbc.Label("Total National Value for HS Code", html_for="model_form_exp_value", width="auto"),
             dbc.Col(
-                dbc.Input(type="number", placeholder="Enter total value of exports in previous year"),
+                dbc.Input(id="model_form_exp_value", type="number", placeholder="Enter total value of exports in previous year"),
                 className="me-3",
             ),
     ],
