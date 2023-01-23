@@ -151,28 +151,6 @@ pnk_input = dbc.Row(
     className="mb-3",
 )
 
-freight_input = dbc.Row(
-    [
-        dbc.Label("Freight", html_for="model_form_freight", width="auto"),
-            dbc.Col(
-                dbc.Input(type="number", placeholder="Enter freight costs in USD."),
-                className="me-3",
-            ),
-    ],
-    className="mb-3",
-)
-
-insurance_input = dbc.Row(
-    [
-        dbc.Label("Insurance", html_for="model_form_insurance", width="auto"),
-            dbc.Col(
-                dbc.Input(type="number", placeholder="Enter cost of insurance in USD."),
-                className="me-3",
-            ),
-    ],
-    className="mb-3",
-)
-
 other_exp_input = dbc.Row(
     [
         dbc.Label("Other Expenses", html_for="model_form_other_exp", width="auto"),
@@ -238,8 +216,6 @@ layout = html.Div([
          State("model_form_products", "value"),
          State("model_form_markets", "value"),
          State("model_form_other_exp", "value"),
-         State("model_form_insurance", "value"),
-         State("model_form_freight", "value"),
          State("model_form_pnk", "value"),
          State("model_form_product", "value"),
          State("model_form_market", "value"),
@@ -252,8 +228,7 @@ layout = html.Div([
     )
 
 def predict(year_selector, exporter_selector, exp_region_selector, product_value_selector, market_selector, product_selector,
-    pnk_selector, freight_selector, insurance_selector, other_exp_selector, markets_selector, 
-    products_selector, experience_selector, n_clicks):
+    pnk_selector, other_exp_selector, markets_selector, products_selector, experience_selector, n_clicks):
 
     prod_class = hs_sections[hs_sections["chapter"]==int(product_selector[0:2])]["section"].values[0]
 
@@ -264,8 +239,7 @@ def predict(year_selector, exporter_selector, exp_region_selector, product_value
     overall_exp = markets_selector * products_selector
 
     results = {"year": year_selector, "exporter":exporter_selector, "exp_region":exp_region_selector, "product_national":product_value_selector, 
-        "market":market_selector, "product":product_selector, "pnk":pnk_selector, "freight":freight_selector,
-        "insurance": insurance_selector, "other_expenses":other_exp_selector, "active_markets":markets_selector, 
+        "market":market_selector, "product":product_selector, "pnk":pnk_selector, "other_expenses":other_exp_selector, "active_markets":markets_selector, 
         "active_products":products_selector, "active_years":experience_selector, "prod_class":prod_class,
         "region":region, "fta":fta, "overall_exp":overall_exp}
 
