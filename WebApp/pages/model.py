@@ -165,9 +165,9 @@ other_exp_input = dbc.Row(
 
 product_value_input = dbc.Row(
     [
-        dbc.Label("Total National Value for HS Code", html_for="model_form_exp_value", width="auto"),
+        dbc.Label("Total National Value for HS Code", html_for="model_form_product_value", width="auto"),
             dbc.Col(
-                dbc.Input(id="model_form_exp_value", type="number", placeholder="Enter total value of exports in previous year"),
+                dbc.Input(id="model_product_value", type="number", placeholder="Enter total value of exports in previous year"),
                 className="me-3",
             ),
     ],
