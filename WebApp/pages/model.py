@@ -185,7 +185,7 @@ results_card = dbc.Card(
             [
                 html.H6("Prediction of Success of Exporter with New Product in New Market", className="card-title"),
                 html.P("Probability of Success:"),
-                dcc.Input(id="probability_alert", value=0, type="number")
+                dbc.Badge(id="probability_alert", color="Success", className="me-1")
             ]
         ),
     ],
