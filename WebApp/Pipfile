@@ -11,6 +11,7 @@ dash-labs = "*"
 dash-bootstrap-components = "*"
 scikit-learn = "*"
 gunicorn = "*"
+flask = "*"
 
 [dev-packages]
 
