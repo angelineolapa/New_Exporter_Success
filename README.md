@@ -17,7 +17,7 @@ The aggregate records were explored to tag all the new exports transactions each
 
 The dataset was completed by adding additional features about the new market, such as world region and size, as well as on the new product traded, such as classifications by section in the harmonized system. Prior exporter experience from the previous year obtained from the original records, was also appended to the dataset were available. These features were selected based on literature and experience, for consideration and evaluation in the exploratory data analysis.    
 
-All steps to obtain the dataset from original export records (available for download at [microdatos](https://microdatos.dane.gov.co/index.php/catalog/472/get-microdata)) are included in notebook1.ipynb. 
+All steps to obtain the dataset from original export records (available for download at [microdatos](https://microdatos.dane.gov.co/index.php/catalog/472/get-microdata)) are included in [notebook1.ipynb](https://github.com/angelineolapa/New_Exporter_Success/blob/main/Notebooks/notebook1.ipynb). 
 
 ## 3. Exploratory Data Analysis (EDA)
 
@@ -25,7 +25,7 @@ To build a successful model for prediction of exporter success, it is key to exp
 
 In addition, the dependant variable - success - was also explored to verify whether data was imbalanced and consider measures to address this problem if present. The variable fortunately did not have this problem so it was not necessary to take additional steps for modelling.
 
-All results of the EDA are available in notebook2.ipynb and some visualizations were included in the webapp developed for this project.
+All results of the EDA are available in [notebook2.ipynb](https://github.com/angelineolapa/New_Exporter_Success/blob/main/Notebooks/notebook2.ipynb) and some visualizations were included in the webapp developed for this project.
 
 ## 4. Model
 
@@ -66,6 +66,6 @@ The training script can also be run to train the model and create the model.bin 
 - Run the train.py script.
 The model file will be created in the data folder
 
-As mentioned previously, all the notebooks that contain all the steps for creating the dataset and tuning the model are also available in this repository. The exports.csv file used in notebook1 is too large for this repository. To create it, download the 2016-2022 zip files available in [microdatos](https://microdatos.dane.gov.co/index.php/catalog/472/get-microdata) and extract them in the notebook folder. Ensure that file estructure for all years is for all files is Expo_{Year}/{Month} and run the originaldata.ipynb notebook.
+As mentioned previously, all the [notebooks](https://github.com/angelineolapa/New_Exporter_Success/blob/main/Notebooks/) that contain all the steps for creating the dataset and tuning the model are also available in this repository. The exports.csv file used in notebook1 is too large for this repository. To create it, download the 2016-2022 zip files available in [microdatos](https://microdatos.dane.gov.co/index.php/catalog/472/get-microdata) and extract them in the notebook folder. Ensure that file estructure for all years is for all files is Expo_{Year}/{Month} and run the originaldata.ipynb notebook.
 
 ## 7. References
