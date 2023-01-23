@@ -52,4 +52,5 @@ app.layout = dbc.Container(
 server = app.server
 
 # Testing server
-app.run_server(debug=True, host="localhost", port=8050)
+if __name__ == "__main__":
+    app.run_server(debug=True, host="localhost", port=8050)
