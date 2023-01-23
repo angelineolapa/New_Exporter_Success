@@ -4,9 +4,11 @@ RUN pip install pipenv
 
 WORKDIR /app
 
-COPY ["Pipfile", "Pipfile.lock", "./"]
+COPY ["Pipfile", "Pipfile.lock"]
 
 RUN pipenv install --system --deploy
+
+COPY ["*.py", "./"]
 
 RUN useradd -m myuser
 USER myuser
