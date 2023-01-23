@@ -6,7 +6,7 @@ from dash_labs.plugins import register_page
 
 #Own functions
 from components.cards.sidemenu import sidemenu_generator
-from assets.model.predict import generate_prediction
+from assets.model.prediction import generate_prediction
 
 #Add alerts to page registry
 register_page(__name__, path="/model", name= "Model", 
