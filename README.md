@@ -42,28 +42,28 @@ All steps in modelling, review of feature significance and parameter tuning are 
 After clonind this repository, this project can be reproduced locally in three ways:
 
 1. Through a simple flash app to serve the model:
-  -Open the WebApp folder in a terminal
-  -Create a local environment with the pipfiles: pipenv install + pipenv shell
-  -Run the predict.py script to start the flask app that serves the model
-  -Open another command line in the folder, run the test-predict.py that sends a request with data from a sample exporter
+  - Open the WebApp folder in a terminal.
+  - Create a local environment with the pipfiles: `pipenv install` + `pipenv shell`.
+  - Run the predict.py script to start the flask app that serves the model,
+  - Open another command line in the folder, run the test-predict.py that sends a request with data from a sample exporter.
   The probability of success will appear in the command prompt.
   
 2. Building a dash app locally:
-  -Open the WebApp folder in a terminal
-  -Create a local environment with the pipfiles: pipenv install + pipenv shell
-  -Run the app.py script to create the WebApp designed for this project. 
+  - Open the WebApp folder in a terminal.
+  - Create a local environment with the pipfiles: `pipenv install` + `pipenv shell`.
+  - Run the app.py script to create the WebApp designed for this project. 
   A test version of the app will run locally at the IP address provided once the script finishes running.
 
 3. From the docker container: 
-  -Open the WebApp folder in a terminal
-  -Build the docker container: - docker build -t exporter-success . - 
-  -Run it - docker run -it -p 9696:9696 exporter-success:latest. 
+  - Open the WebApp folder in a terminal.
+  - Build the docker container: `docker build -t exporter-success . `.
+  - Run it: `docker run -it -p 9696:9696 exporter-success:latest`. 
   Please note that this WebApp is served using unicorn so it will not work in Windows-based environments. 
   
 The training script can also be run to train the model and create the model.bin file:
--Open the WebApp folder in a terminal
--Create a local environment with the pipfiles: pipenv install + pipenv shell
--Run the train script
+- Open the WebApp folder in a terminal.
+- Create a local environment with the pipfiles: `pipenv install` + `pipenv shell`.
+- Run the train.py script.
 The model file will be created in the data folder
 
 As mentioned previously, all the notebooks that contain all the steps for creating the dataset and tuning the model are also available in this repository.
