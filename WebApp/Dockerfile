@@ -8,7 +8,7 @@ COPY ["Pipfile", "Pipfile.lock", "./"]
 
 RUN pipenv install --system --deploy
 
-COPY ["*.py", "*.csv", "model.bin", "./"]
+COPY ["./", "./"]
 
 RUN useradd -m myuser
 USER myuser
