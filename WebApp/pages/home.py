@@ -71,7 +71,7 @@ layout = html.Div(
             style={'textAlign': 'center', "font-weight":"bold", "padding":"20px"}, id="subtitle")),  
             dbc.Tabs([
                 dbc.Tab(profile1, label="By region"),           
-                dbc.Tab(profile2, label="By exerience"),
+                dbc.Tab(profile2, label="By experience"),
                 dbc.Tab(profile3, label="By markets"),
                 dbc.Tab(profile4, label="By products"),
                 ]),                                    

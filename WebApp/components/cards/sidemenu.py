@@ -14,7 +14,7 @@ def sidemenu_generator():
     model_card = sidecard("Success Predictor", "Success Prediction Tool", "/model")
     
     #Branding row
-    info_card = infocard("ML Zoomcamp - Capstone Project")
+    info_card = infocard("ML Zoomcamp - Capstone Project", "Github Repo", "https://github.com/angelineolapa/New_Exporter_Success")
 
     #Create sidemenu
     sidemenu = (

@@ -201,7 +201,6 @@ layout = html.Div([
         ], width=7),
         dbc.Col([
             dbc.Row([results_card], align="start"),
-            dbc.Row(dbc.Badge("Git Hub Repo", href="https://github.com/angelineolapa/New_Exporter_Success", color="primary")),
             dbc.Row(dbc.Badge("*ISO Country Codes", href="https://www.iso.org/obp/ui/#search", color="primary")),
             dbc.Row(dbc.Badge("**Colombian Tariff Schedule (HS Codes)", 
                         href="https://muisca.dian.gov.co/WebArancel/DefMenuConsultas.faces", color="primary")),
