@@ -71,3 +71,6 @@ The model file will be created in the data folder
 As mentioned previously, all the [notebooks](https://github.com/angelineolapa/New_Exporter_Success/blob/main/Notebooks/) that contain all the steps for creating the dataset and tuning the model are also available in this repository. The exports.csv file used in notebook1 is too large for this repository. To create it, download the 2016-2022 zip files available in [microdatos](https://microdatos.dane.gov.co/index.php/catalog/472/get-microdata) and extract them in the notebook folder. Ensure that file estructure for all years is for all files is Expo_{Year}/{Month} and run the originaldata.ipynb notebook. All datasets used in notebook2 are available in the [data folder for the WebApp](https://github.com/angelineolapa/New_Exporter_Success/blob/main/Notebooks/). 
 
 ## 7. References
+- Eaton, Jonathan and Eslava (2007), Export Dynamics in Colombia: Firm-Level Evidence. Available at: https://back.nber.org/bibliographic/w13531.bib.
+- International Trade Administration, Why Export? Available at: https://www.trade.gov/why-export.
+ 
