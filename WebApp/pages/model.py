@@ -67,7 +67,7 @@ exporter_input = dbc.Row(
 
 market_input = dbc.Row(
     [
-        dbc.Label("Country of Destination *", html_for="model_form_market", width="auto"),
+        dbc.Label("Country of Destination (ISO Code*)", html_for="model_form_market", width="auto"),
         dbc.Col(
                 dbc.Input(id="model_form_market", type="text", placeholder="Enter code of country of destination"),
                 className="me-3",
@@ -79,7 +79,7 @@ market_input = dbc.Row(
 
 product_input = dbc.Row(
     [
-        dbc.Label("Product **", html_for="model_form_product", width="auto"),
+        dbc.Label("Product (HS Code**)", html_for="model_form_product", width="auto"),
         dbc.Col(
                 dbc.Input(id="model_form_product", type="text", placeholder="Enter HS code of product"),
                 className="me-3",
