@@ -33,7 +33,7 @@ profile1 = dbc.Container([
 profile2 = dbc.Container([
     dbc.Card([
     dbc.CardBody([
-        html.H6("FTA in new markets", style={"textAlign": "center", "font-weight":"bold"}),
+        html.H6("FTA in New Markets", style={"textAlign": "center", "font-weight":"bold"}),
         dbc.Row(dcc.Graph(figure=markets_fta, id="markets_fta")
             ,justify="center"),
         ])
@@ -43,7 +43,7 @@ profile2 = dbc.Container([
 profile3 = dbc.Container([
     dbc.Card([
     dbc.CardBody([
-        html.H6("New Markets by GPD per Capita", style={"textAlign": "center", "font-weight":"bold"}),
+        html.H6("New Markets by GDP per Capita", style={"textAlign": "center", "font-weight":"bold"}),
         dbc.Row(dcc.Graph(figure=markets_gdp, id="markets_gdp")
             ,justify="center"),
         ])
