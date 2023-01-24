@@ -9,7 +9,7 @@ def sidecard(label, description, href):
             dbc.CardBody([
                 html.H6(label, style={"font-weight":"bold"}, className="card-title"),
                 html.P(description,className='card_text'),
-                dbc.Button("Más información", color="primary", href=href, size="sm", class_name="mr-1", id="menu_button", n_clicks=0,),
+                dbc.Button("More Information", color="primary", href=href, size="sm", class_name="mr-1", id="menu_button", n_clicks=0,),
                 ]),
             ])
         ])
