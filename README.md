@@ -37,7 +37,12 @@ All steps in modelling, review of feature significance and parameter tuning are 
 
 A multipage plotly.Dash app was created to serve the model. The home page provides some visualizations to give context on the profile of new Colombian exporter. The market pages provides insights on the new markets chosen by new exporters. The model page, which is the central part of this project, provides a user form that upon submission indicates the probability of success for a new exporter trading a specific product to a specific market based on its experience and shipment information. Market and product details have to be encoded following ISO country codes and WTO harmonized system nomenclature respectively, so links to information on these standars have been provided 
 
-A pipenv environment and a docker container where created for deployment. After testing locally, the app was deployed to XX. The app is available at: https:// (unfotunately it takes some time to load!).
+A pipenv environment and a docker container where created for deployment. After testing locally, the app was deployed to [Render](https://render.com/) following these steps:
+1. Create render account
+2. Start a free web service
+3. Give access to github repository 
+4. Manually deploy container
+The app is available at: https://new-exporter-success.onrender.com/ (unfotunately it takes quite a while to load!).
 
 ## 6. Reproducibility
 
