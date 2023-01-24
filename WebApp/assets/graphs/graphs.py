@@ -15,11 +15,11 @@ new_exporters = pd.read_csv("./data/NewExporters.csv", sep=";", usecols=selected
 
 #Variable names for graphs
 var_names ={"subregion":"World region for new market",
-            "gdp_pc":"GDP per capita", 
+            "gdp_pc":"GPD per capita", 
             "active_markets":"Export markets in previous year", 
             "active_years":"Export experience in years",
             "active_products":"Export products in previous year", 
-            "exports_value":"Exports in previous year (USD)", 
+            "exports_value":"Exports Value in previous year (USD)", 
             "fta":"FTA in new market", 
             "success":"Success of new exporter"}
 
