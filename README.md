@@ -42,7 +42,7 @@ A pipenv environment and a docker container where created for deployment. After 
 2. Start a free web service
 3. Give access to github repository 
 4. Manually deploy container
-The app is available at: https://new-exporter-success.onrender.com/ (unfotunately it takes quite a while to load!).
+The app is available at: https://new-exporter-success.onrender.com/ (unfotunately it takes a while to load!).
 
 ## 6. Reproducibility
 
