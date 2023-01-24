@@ -185,7 +185,7 @@ results_card = dbc.Card(
             [
                 html.H6("Prediction of Success of Exporter with New Product in New Market", className="card-title"),
                 html.P("Probability of Success:"),
-                dbc.Badge(id="probability_alert", color="Success", className="me-1")
+                dcc.Input(id="probability_alert", color="Success", className="me-1")
             ]
         ),
     ],
@@ -239,8 +239,8 @@ def predict( experience_selector, products_selector, markets_selector, other_exp
 
     overall_exp = markets_selector * products_selector
 
-    results = {"year": year_selector, "exporter":exporter_selector, "exp_region":exp_region_selector, "product_national":product_value_selector, 
-        "market":market_selector, "product":product_selector, "pnk":pnk_selector, "other_expenses":other_exp_selector, "active_markets":markets_selector, 
+    results = {"year": year_selector, "exporter":exporter_selector, "exp_region":exp_region_selector, "product_national":float(product_value_selector), 
+        "market":market_selector, "product":product_selector, "pnk":float(pnk_selector), "other_expenses":float(other_exp_selector), "active_markets":markets_selector, 
         "active_products":products_selector, "active_years":experience_selector, "prod_class":prod_class,
         "region":region, "fta":fta, "overall_exp":overall_exp}
 
