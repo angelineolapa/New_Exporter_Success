@@ -43,7 +43,7 @@ A pipenv environment and a docker container where created for deployment. After 
 2. Start a free web service
 3. Give access to github repository 
 4. Manually deploy container
-The app is available at: https://new-exporter-success.onrender.com/ (unfotunately it takes a while to load!).
+The app is available at: https://new-exporter-success.onrender.com/.
 
 ## 6. Reproducibility
 
@@ -66,7 +66,7 @@ After cloning this repository, this project can be reproduced locally in three w
   - Open the WebApp folder in a terminal.
   - Build the docker container: `docker build -t exporter-success . `.
   - Run it: `docker run -it -p 9696:9696 exporter-success:latest`. 
-  Please note that this WebApp is served using unicorn so it will not work in Windows-based environments. 
+  Please note that this WebApp is served using gunicorn so it will not work in Windows-based environments. 
   
 The training script can also be run to train the model and create the model.bin file:
 - Open the WebApp folder in a terminal.
