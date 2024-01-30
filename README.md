@@ -20,7 +20,7 @@ Besides exploring potential determinants of exporter success, the model develope
 
 ## 3. Dataset
 
-The dataset selected for this project contains all record of new export transactions, defined as any combination of exporter-market-product not recorded in the previous year, registered in Colombia between 2017 and 2021. This dataset was obtained by aggregrating all export transactions filed to the Colombia Tax Authority - DIAN between 2016 and 2022. 
+The dataset selected for this project contains all record of new export transactions, defined as any combination of exporter-market-product not recorded in the previous year, registered in Colombia between 2017 and 2021. This dataset was obtained by aggregrating all export transactions filed to the Colombia Tax Authority - DIAN between 2016 and 2022. To note, 2016 and 2021 were not included in the export-market-product combinations previously mentioned as these years were required for compariason purposes only, i.e. to determine whether a market in an export record in 2017 was new and to confirm whether a new exporter in 2021 was successful. 
 
 Only commercial transactions were considered; temporary exports, exports for exhibition purposes, exports by diplomatic missions and exports to free trade zones were excluded. One time exporters were also excluded from the analysis and export-market-product transactions with annual value of less than USD$1000 were also eliminated from the dataset, to ensure that only exporters with true bussiness commitments were studied.
 
