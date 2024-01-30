@@ -8,7 +8,8 @@ WebApp: [New-Exporter-Success](https://new-exporter-success.onrender.com/)
 * Created a tool to help predict success of new Colombian exporters when entering a new market. The objective is to help new exporters select target markets for future expansions based on their exporting activity, product portfolio and other relevant variables.
 * Cleaned, explored, agregated and analized all export records presented to the Colombian tax authorities between 2016 and 2022.
 * Optimized logistic regression, random forest and xgboost models to reach the best model.
-* Built a client facing API using plotly.Dash to serve the model. 
+* Built a client facing API using plotly.Dash to serve the model.
+* As part of the ML Zoomcamp course, this project had to be peer-reviewed and adjustments to this readme file were made based on my classmates' feedbacks. 
   
 ## 2. Problem Description
 
